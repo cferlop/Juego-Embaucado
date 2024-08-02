@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1721093330 source:c:\users\cferl\documents\c++ archivos\cpp proyects\tp integrador pruebas\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"tpPruebasFunciones.h"
+	<windows.h>
+
+1721848972 c:\users\cferl\documents\c++ archivos\cpp proyects\tp integrador pruebas\tppruebasfunciones.h
+	<windows.h>
+	<vector>
+
